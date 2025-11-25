@@ -82,7 +82,7 @@ const LandingPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-2">
-              <img src="../../public/logo.png" alt="Mekanism Logo" className="h-14 w-auto" />
+              <img src="/logo.png" alt="Mekanism Logo" className="h-14 w-auto" />
             </div>
             
             {/* Desktop Menu */}
@@ -361,7 +361,7 @@ const LandingPage = () => {
 
             <div className="border-t border-slate-200 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-slate-500">
                 <div className="flex items-center gap-2 mb-4 md:mb-0">
-                    <img src="../../public/logo.png" alt="Mekanism Logo" className="h-6 w-auto opacity-80" />
+                    <img src="/logo.png" alt="Mekanism Logo" className="h-6 w-auto opacity-80" />
                 </div>
                 <div className="flex gap-6">
                     <a href="#" className="hover:text-orange-600">Termos de Uso</a>
