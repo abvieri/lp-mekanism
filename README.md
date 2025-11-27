@@ -52,7 +52,7 @@ Para rodar este projeto localmente, você precisará ter instalado em sua máqui
 
 ### 1️⃣ Clonar o repositório
 ```sh
-git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+git clone https://github.com/abvieri/lp-mekanism.git
 cd mekanism-lp
 ````
 
